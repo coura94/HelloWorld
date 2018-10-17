@@ -15,7 +15,8 @@ public class HelloWorld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("hello world je suis sur gehub");
+        System.out.print("hello world je suis sur geThub");
+           System.out.print("hello world je suis sur geThub");
     }
     
 }
